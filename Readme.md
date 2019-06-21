@@ -13,6 +13,9 @@
 * [default.aspx.cs](./CS/GridBestPractice/dictionary/default.aspx.cs) (VB: [default.aspx.vb](./VB/GridBestPractice/dictionary/default.aspx.vb))
 <!-- default file list end -->
 # Best Practice - ASPxGridView - Online Dictionary mobile friendly web application
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t476106)**
+<!-- run online end -->
 
 
 The idea is to create the <strong>"Online Ayurvedic Dictionary" </strong>web application with the search feature (i.e. quick filtering) for finding required ayurvedic term(s). The web site should be responsive and applicable for both Mobile and Desktop end-users. This sample demonstrates the use of DevExpress <a href="https://demos.devexpress.com/aspxgridviewdemos/">ASP.NET GridView</a> with the built-in Search feature.

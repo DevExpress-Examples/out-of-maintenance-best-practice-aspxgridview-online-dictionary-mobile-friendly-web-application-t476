@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128536875/16.2.4%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T476106)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -18,9 +13,6 @@
 * [default.aspx.cs](./CS/GridBestPractice/dictionary/default.aspx.cs) (VB: [default.aspx.vb](./VB/GridBestPractice/dictionary/default.aspx.vb))
 <!-- default file list end -->
 # Best Practice - ASPxGridView - Online Dictionary mobile friendly web application
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t476106)**
-<!-- run online end -->
 
 
 The idea is to create the <strong>"Online Ayurvedic Dictionary" </strong>web application with the search feature (i.e. quick filtering) for finding required ayurvedic term(s). The web site should be responsive and applicable for both Mobile and Desktop end-users. This sample demonstrates the use of DevExpress <a href="https://demos.devexpress.com/aspxgridviewdemos/">ASP.NET GridView</a> with the built-in Search feature.
